@@ -1,6 +1,6 @@
-# Responsive Portfolio Website Anid
+# Responsive Portfolio Website Nidar
 ## [Watch it on youtube](https://youtu.be/qxxanKFR7js)
-### Responsive Portfolio Website Anid
+### Responsive Portfolio Website Nidar
 
 - Responsive Portfolio Website Using HTML CSS And JavaScript
 - Contains animations when scrolling.
